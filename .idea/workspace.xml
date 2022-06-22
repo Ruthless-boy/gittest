@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af984bf2-0659-4c32-8e59-7b462108839e" name="Changes" comment="你好啊" />
+    <list default="true" id="af984bf2-0659-4c32-8e59-7b462108839e" name="Changes" comment="ceshiaaaaa">
+      <change afterPath="$PROJECT_DIR$/gittest.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +44,7 @@
       <workItem from="1655882192174" duration="794000" />
       <workItem from="1655884061895" duration="734000" />
       <workItem from="1655885606143" duration="302000" />
+      <workItem from="1655886235483" duration="334000" />
     </task>
     <task id="LOCAL-00001" summary="王俊博的mac的第一次提交">
       <created>1655882293428</created>
@@ -78,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655885687968</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ceshiaaaaa">
+      <created>1655886278571</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655886278571</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +110,7 @@
     <MESSAGE value="王俊博的mac的第一次提交" />
     <MESSAGE value="王俊博的mac的第二次提交" />
     <MESSAGE value="你好啊" />
-    <option name="LAST_COMMIT_MESSAGE" value="你好啊" />
+    <MESSAGE value="ceshiaaaaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="ceshiaaaaa" />
   </component>
 </project>
