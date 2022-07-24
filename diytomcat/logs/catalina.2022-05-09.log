@@ -1,0 +1,723 @@
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 49 ms
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 10:07:47 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 47 ms
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 10:20:01 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 51 ms
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 10:34:08 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 10:34:20 上午 cn.how2j.diytomcat.catalina.Server$1 error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server$1.run(Server.java:58)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 49 ms
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 11:12:59 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 47 ms
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 11:13:41 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 50 ms
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 11:14:10 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 45 ms
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 11:17:18 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 52 ms
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 11:20:46 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 72 ms
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 1 ms
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 11:21:35 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 41 ms
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 11:22:26 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 50 ms
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 11:23:36 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 11:23:45 上午 cn.how2j.diytomcat.catalina.Server$1 error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server$1.run(Server.java:58)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 51 ms
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 11:24:12 上午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 11:24:14 上午 cn.how2j.diytomcat.catalina.Server$1 error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server$1.run(Server.java:58)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+05 09, 2022 11:26:29 上午 cn.how2j.diytomcat.catalina.Server$1 error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server$1.run(Server.java:58)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 71 ms
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 12:58:30 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 12:58:40 下午 cn.how2j.diytomcat.catalina.Server$1 error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server$1.run(Server.java:58)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 47 ms
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 1 ms
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 14:04:09 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 14:04:50 下午 cn.how2j.diytomcat.catalina.Server$1 error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Server$1.run(Server.java:58)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 48 ms
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+05 09, 2022 14:41:04 下午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 3 ms
+05 09, 2022 14:41:11 下午 cn.how2j.diytomcat.catalina.Connector$1 error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:56)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 41 ms
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+05 09, 2022 14:44:04 下午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 2 ms
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 52 ms
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+05 09, 2022 16:17:39 下午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 3 ms
+05 09, 2022 16:17:42 下午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:28)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 48 ms
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+05 09, 2022 16:38:59 下午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 3 ms
+05 09, 2022 16:39:03 下午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:61)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/a has finished in 50 ms
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/webapps/ROOT has finished in 0 ms
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deploying web application directory /Users/ruthless/Downloads/大三下/diytomcat/b
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Context <init>
+INFO : Deployment of web application directory /Users/ruthless/Downloads/大三下/diytomcat/b has finished in 0 ms
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server version:		How2J DiyTomcat/1.0.1
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server built:		2020-04-08 10:20:22
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Server number:		1.0.1
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Name	:		Mac OS X
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : OS Version:		11.6.1
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Architecture:		aarch64
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : Java Home:		/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Version:		1.8.0_312-b07
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Server logJVM
+INFO : JVM Vendor:		Oracle Corporation
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18080]
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18081]
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Connector init
+INFO : Initializing ProtocolHandler [http-bio-18082]
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Service init
+INFO : Initialization processed in 1 ms
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18080]
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18081]
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Connector start
+INFO : Starting ProtocolHandler [http-bio-18082]
+05 09, 2022 16:52:32 下午 cn.how2j.diytomcat.catalina.Server start
+INFO : Server startup in 3 ms
+05 09, 2022 16:52:45 下午 cn.how2j.diytomcat.catalina.HttpProcessor error
+ERROR: this is a deliberately created exception
+java.lang.Exception: this is a deliberately created exception
+	at cn.how2j.diytomcat.catalina.HttpProcessor.execute(HttpProcessor.java:61)
+	at cn.how2j.diytomcat.catalina.Connector$1.run(Connector.java:40)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
